@@ -1,3 +1,7 @@
+
+/*. Accept Character from user and check whether it is special symbol 
+or not (!, @, #, $, %, ^, &, *).
+*/
 #include<iostream>
 using namespace std;
 
