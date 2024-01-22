@@ -12,8 +12,6 @@ using namespace std;
 
 bool ChkVovel(char *Arr)
 {
-    int iCntCapital=0;
-    int iCntSmall=0;
     while (*Arr != '\0')
     {
 
